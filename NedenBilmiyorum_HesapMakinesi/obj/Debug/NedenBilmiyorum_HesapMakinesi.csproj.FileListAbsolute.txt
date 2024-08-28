@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\bin\Debug\NedenBilmiyorum_HesapMakinesi.exe.config
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\bin\Debug\NedenBilmiyorum_HesapMakinesi.exe
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\bin\Debug\NedenBilmiyorum_HesapMakinesi.pdb
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\obj\Debug\NedenBilmiyorum_HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\obj\Debug\NedenBilmiyorum_HesapMakinesi.HesapMakinesi.resources
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\obj\Debug\NedenBilmiyorum_HesapMakinesi.Properties.Resources.resources
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\obj\Debug\NedenBilmiyorum_HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\obj\Debug\NedenBilmiyorum_HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\obj\Debug\NedenBilmiyorum_HesapMakinesi.exe
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\obj\Debug\NedenBilmiyorum_HesapMakinesi.pdb
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\bin\Debug\NedenBilmiyorum_HesapMakinesi.exe.manifest
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\bin\Debug\NedenBilmiyorum_HesapMakinesi.application
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\obj\Debug\NedenBilmiyorum_HesapMakinesi.exe.manifest
+C:\Users\Ali\source\repos\NedenBilmiyorum_HesapMakinesi\NedenBilmiyorum_HesapMakinesi\obj\Debug\NedenBilmiyorum_HesapMakinesi.application
